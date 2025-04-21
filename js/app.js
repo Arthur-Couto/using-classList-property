@@ -1,6 +1,3 @@
-console.log('JavaScript carregado!');
-
-
 let jogosAlugados = 0;
 let quantidadeDeJogos = document.querySelectorAll('.dashboard__item__name')
 
